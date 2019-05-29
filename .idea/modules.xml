@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/moocmall_common/moocmall_common.iml" filepath="$PROJECT_DIR$/moocmall_common/moocmall_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocmall_mall/moocmall_mall.iml" filepath="$PROJECT_DIR$/moocmall_mall/moocmall_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocmall_parent.iml" filepath="$PROJECT_DIR$/moocmall_parent.iml" />
+    </modules>
+  </component>
+</project>
